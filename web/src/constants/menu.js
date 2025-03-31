@@ -19,8 +19,8 @@ export const menu = [
     title: 'About Us',
     path: '/goal',
   },
-  // {
-  //   title: 'Contact us',
-  //   path: '/contact',
-  // },
+  {
+    title: 'Contact us',
+    path: '/contact',
+  },
 ];
