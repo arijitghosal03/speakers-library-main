@@ -3,7 +3,7 @@ import PageSpace from '../components/PageSpace';
 import ParagraphText from '../components/typography/ParagraphText';
 import { SectionTitle } from '../components/typography/Title';
 
-function goal() {
+function disclaimer() {
   return (
     <PageSpace>
       <div className="container">
