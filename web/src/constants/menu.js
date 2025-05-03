@@ -23,4 +23,12 @@ export const menu = [
     title: 'Contact us',
     path: '/contact',
   },
+  {
+    title: 'Disclosure',
+    path: '/disclosure',
+  },
+  {
+    title: 'Disclaimer',
+    path: '/disclaimer',
+  },
 ];

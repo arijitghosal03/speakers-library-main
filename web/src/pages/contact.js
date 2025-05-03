@@ -15,7 +15,7 @@ function contact() {
             
             <p>
               আপনার মূল্যবান মতামত দিন, অথবা আমাদের জানান আমরা আরো কিভাবে উন্নত হতে পারি, অথবা আমাদের জন্য
-              একটি লাইন লিখতে চান, আমাদের মেইল করুন contact.speakerslibrary@gmail.com এ। বা আপনি এই লিংক এ
+              একটি লাইন লিখতে চান, আমাদের মেইল করুন <a href="mailto:contact.speakerslibrary@gmail.com">contact.speakerslibrary@gmail.com</a> এ। বা আপনি এই লিংক এ
               ক্লিক করে কিছু লিখতে পারেন।
             </p>
             

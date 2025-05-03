@@ -27,7 +27,7 @@ export default styled(Link)`
   }
 .logo__text {
             font-family: 'Algerya Sans SC', sans-serif;
-            font-size: 1.5rem;
+            font-size: 3 rem;
             letter-spacing: 0.5px;
             color:rgb(255, 255, 255);
 `;

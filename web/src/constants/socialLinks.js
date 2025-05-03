@@ -23,4 +23,10 @@ export const socialLinks = [
     url: 'mailto:contact.speakerslibrary@gmail.com',
     icon: <AiOutlineMail />,
   },
+  {
+    name: 'youtube',
+    url: 'https://www.youtube.com/channel/UCrp3auXbbpWoFE3y4oJwuAg',
+    icon: <FaYoutube />,
+  },
+  
 ];
