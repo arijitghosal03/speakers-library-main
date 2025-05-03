@@ -8,39 +8,9 @@ function disclosure() {
     <PageSpace>
       <div className="container">
         <div className="bangla-content">
-          <style jsx>{`
-            @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
-            
-            .bangla-content {
-              font-family: 'Hind Siliguri', sans-serif;
-              line-height: 1.8;
-              max-width: 800px;
-              margin: 0 auto;
-              padding: 20px;
-            }
-            
-            .bangla-text {
-              font-family: 'Hind Siliguri', sans-serif !important;
-              font-size: 16px;
-              text-align: justify;
-            }
-            
-            .bangla-text p {
-              margin-bottom: 20px;
-            }
-            
-            .bangla-text a {
-              color: #0066cc;
-              text-decoration: none;
-            }
-            
-            .bangla-text a:hover {
-              text-decoration: underline;
-            }
-          `}</style>
-          
+       
           <SectionTitle className="title">প্রকাশনা বিবৃতি</SectionTitle>
-          <ParagraphText className="bangla-text">
+          <ParagraphText className="goal-text">
             <p>
               স্পিকার'স লাইব্রেরীতে আপনাকে স্বাগতম। স্পিকার'স লাইব্রেরী বাংলা ভাষায় বইয়ের সারাংশ এবং পর্যালোচনার জন্য
               আপনার প্রধান গন্তব্য। আমরা আমাদের ওয়েবসাইটের কার্যক্রম এবং বিষয়বস্তু সম্পর্কে স্বচ্ছতা এবং নির্মলতা নিশ্চিত

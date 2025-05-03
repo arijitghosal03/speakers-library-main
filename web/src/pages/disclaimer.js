@@ -8,30 +8,10 @@ function disclaimer() {
     <PageSpace>
       <div className="container">
         <div className="bangla-content">
-          <style jsx>{`
-            @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
-            
-            .bangla-content {
-              font-family: 'Hind Siliguri', sans-serif;
-              line-height: 1.8;
-              max-width: 800px;
-              margin: 0 auto;
-              padding: 20px;
-            }
-            
-            .bangla-text {
-              font-family: 'Hind Siliguri', sans-serif !important;
-              font-size: 16px;
-              text-align: justify;
-            }
-            
-            .bangla-text p {
-              margin-bottom: 20px;
-            }
-          `}</style>
+      
           
           <SectionTitle className="title">দায়বন্ধনের অস্বীকৃতি</SectionTitle>
-          <ParagraphText className="bangla-text">
+          <ParagraphText className="goal-text">
             <p>
               স্পিকার'স লাইব্রেরী হল বইয়ের সারাংশ এবং পর্যালোচনার একটি প্ল্যাটফর্ম,
               যা স্বেচ্ছাসেবক বন্ধুদের একটি দল দ্বারা পরিচালিত হয়। যদিও আমরা সঠিক এবং 
