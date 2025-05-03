@@ -29,7 +29,7 @@ export default styled(Link)`
             font-family: 'Algerya Sans SC', sans-serif;
             font-size: 1.5rem;
             letter-spacing: 0.5px;
-            color: #2a2a2a;
+            color:rgb(255, 255, 255);
 `;
 // li {
 //       display: inline-block;
