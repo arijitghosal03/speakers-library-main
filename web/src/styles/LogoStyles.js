@@ -25,10 +25,11 @@ export default styled(Link)`
     height: 12%;
     width: 12%;
   }
-  .logo__text {
-    color: var(--white-1);
-    font-family: 'Edu VIC WA NT Beginner', cursive;
-  }
+.logo__text {
+            font-family: 'Algerya Sans SC', sans-serif;
+            font-size: 1.5rem;
+            letter-spacing: 0.5px;
+            color: #2a2a2a;
 `;
 // li {
 //       display: inline-block;
