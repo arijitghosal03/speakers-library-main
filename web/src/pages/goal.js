@@ -33,7 +33,7 @@ function goal() {
             <p>অন্বেষণ করার সময় Speaker's Library-কে আপনার সাথী হতে দিন।</p>
             <p>
               একটি প্রশ্ন, পরামর্শ বা শুধু হ্যালো বলতে চান?
-              contact.speakerslibrary@gmail.com-এ আমাদের জন্য একটি সাইন লিখুন।
+              <a href="mailto:contact.speakerslibrary@gmail.com" >contact.speakerslibrary@gmail.com</a> আমাদের জন্য একটি সাইন লিখুন।
               অথবা contact us-এ গিয়ে আমাদের সাথে যোগাযোগ করুন
             </p>
           </ParagraphText>
